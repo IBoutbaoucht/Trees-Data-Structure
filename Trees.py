@@ -1,1 +1,1 @@
-
+print("Salam Tarik Labas")
